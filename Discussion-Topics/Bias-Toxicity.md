@@ -6,13 +6,10 @@
 
 ### Why does it matter and why do we care
 
-A LLM built on a biased corpus, if only ever used on a closed network, for specific training research, may never create a toxic result of a negative impact for the researchers interacting with the LLM. However, it will always have the potential to create toxic results and damaging impacts if released into the general world without guardrails or if given power over automated decisions that will impact others. 
+A LLM built on a biased corpus, if only used on a closed network for specific training research, may never create a toxic result or have a negative impact on the researchers interacting with it. However, that LLM will always have the potential to create toxic results and have damaging impacts if/when released into the general world without guardrails, especially if it is given power over automated decisions that impact others. 
 
-The answer to why bias and toxicity in LLMs matter comes down to two key realities:
+The bias and toxicity in LLMs matter when we ask how LLMs should be used, regulated, or accessed by the general population. At least in the United States, we live in a highly capitalistic society in which corporations wield significant power. LLMs are being used for broad commercial purposes, while institutional planning for guardrails and protections is far outpaced by the latest releases and corporate applications for AI technology. 
 
-* we live in a capitalistic society
-* words have power
-
-
+LLMs that employ toxic vernacular are used to write articles, draft legal briefs, and outline marketing campaigns. And, moreover, there is the unfortunate habit of many humans to see computer-generated outcomes as trustworthy, truthful, and empirically correct.
 
 ### What do we do about

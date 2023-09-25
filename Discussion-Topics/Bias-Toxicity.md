@@ -2,7 +2,7 @@
 
 ### What is it?
 
-**Bias** in LLM is the same as outside of LLM, a preference for or against a group of people, things, or characteristics. Where **toxicity** comes to play in LLM is as an outcome of the bias in the model, be it from the code, training technique, or the training corpus. **Bias** is the cause of **toxicity** in LLMs. As fruit can go from nutritious to sickening when it goes rancid, LLMs go from useful to dangerous when the biases in their base code and corpus are manifested by the wrong *application*.
+**Bias** in LLM is the same as outside of LLM, a preference for or against a group of people, things, or characteristics. Where **toxicity** comes to play in LLM is as an outcome of the bias in the model, be it from the code, training technique, or the training corpus. **Bias** is the cause of **toxicity** in LLMs. As fruit can go from nutritious to sickening when it goes rancid, LLMs go from useful to dangerous when the biases in their base code and corpus get activated through the wrong *application*.
 
 ### Why does it matter and why do we care
 

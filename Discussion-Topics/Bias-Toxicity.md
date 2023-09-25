@@ -22,4 +22,4 @@ There are many schools of thought and potential approaches to preventing damage 
 * fix the models [coding/training]
 * micro-LLMs for tailored for smaller, specific applications
 
-All the options have potential benefits, and frankly, I'm in favor of *trying* to push for any and all guardrails. We need as much effort, research, and advancement put into making LLMs and other AI models safe and kind as folks are putting into making LLMs and AI for profitability. I personally think the first two have the best shot 
+All the options have potential benefits, and frankly, I'm in favor of *trying* to push for any and all guardrails. We need as much effort, research, and advancement put into making LLMs and other AI models safe and kind as folks are putting into making LLMs and AI for profitability. I personally think the first two have the best shot.

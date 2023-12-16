@@ -1,6 +1,7 @@
 # Hello, Eightbert!
-
-## _how are you today?_ **Outlook good**
+_How are you today?_
+**Outlook good**
+____
 
 ### Intro
 
@@ -32,8 +33,6 @@ In the end, I used that data to make two fine-tuned BERT models, with 10 epochs 
 ## Implementation
 
 I hope that playing with Magic Eighbert can highlight LLMs’ dependence on probabilities and training data for folks who haven’t previously considered machine learning builds. Moreover, I want to show how LLMs can be fun and sometimes useful arrows in the right direction, but shouldn’t be depended on for accuracy or visions into the future.
-
-----
 
 [^1]: The ™ is a joke.
 [^2]: Please see the writings of Wendy Chun for a more thoughtful discussion on the psychotic nature of algorithms.

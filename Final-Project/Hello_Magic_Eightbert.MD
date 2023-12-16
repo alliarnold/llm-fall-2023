@@ -4,7 +4,7 @@
 
 ### Intro
 
-Magic Eightbert™ is a fine-tuned BERT model here to answer the questions on your mind today! Just kidding! Magic Eightbert doesn't have the answers, but that is why it is here —to help demonstrate the difference between probability-based responses and a time-machine-backed glimpse into the future.
+Magic Eightbert™[^1] is a fine-tuned BERT model here to answer the questions on your mind today! Just kidding! Magic Eightbert doesn't have the answers, but that is why it is here —to help demonstrate the difference between probability-based responses and a time-machine-backed glimpse into the future.
 
 ### Premise
 
@@ -12,7 +12,7 @@ AI and other machine-learning tools are the shiniest toys on the market today, p
 
 Those of us who have had the privilege of studying statistics or the basics of machine learning should already have absorbed something that many people haven't. Having seen data converted into predictions, weights, and probabilities, we understand that LLMs are only as good as their architecture and training data, or "ground truth" as it is so generously misnamed. 
 
-The reality is that humans collectively agree on very little about what is empirically true, particularly with issues that have major moral or societal implications. The next logical step in accepting this is to accept that no LLM in existence today was trained with 100% true capital "T" information. Whether or not you believe in AI hallucinations or see every output an LLM produces as equally hallucinogenic, the outputs provided by LLMs are no more and no less than a result of their design and input data. Predictive machine learning does not predict futures that haven’t happened already, it predicts what is most likely to happen again given the data provided. Sure, you can adjust certain frequencies to increase the randomness of your outputs, but that randomness is psychotic, not psychic.
+The reality is that humans collectively agree on very little about what is empirically true, particularly with issues that have major moral or societal implications. The next logical step in accepting this is to accept that no LLM in existence today was trained with 100% true capital "T" information. Whether or not you believe in AI hallucinations or see every output an LLM produces as equally hallucinogenic, the outputs provided by LLMs are no more and no less than a result of their design and input data. Predictive machine learning does not predict futures that haven’t happened already, it predicts what is most likely to happen again given the data provided. Sure, you can adjust certain frequencies to increase the randomness of your outputs, but that randomness is psychotic, not psychic.[^2]
 
 ### Concept
 
@@ -32,3 +32,8 @@ In the end, I used that data to make two fine-tuned BERT models, with 10 epochs 
 ## Implementation
 
 I hope that playing with Magic Eighbert can highlight LLMs’ dependence on probabilities and training data for folks who haven’t previously considered machine learning builds. Moreover, I want to show how LLMs can be fun and sometimes useful arrows in the right direction, but shouldn’t be depended on for accuracy or visions into the future.
+
+----
+
+[^1]: The ™ is a joke.
+[^2]: Please see the writings of Wendy Chun for a more thoughtful discussion on the psychotic nature of algorithms.

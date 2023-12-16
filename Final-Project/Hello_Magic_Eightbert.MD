@@ -1,6 +1,6 @@
 # Hello, Eightbert!
 
-## *how are you today? **Outlook good**
+## _how are you today?_ **Outlook good**
 
 ### Intro
 
